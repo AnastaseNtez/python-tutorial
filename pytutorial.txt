@@ -3,3 +3,4 @@ Adding new reason of not being in lazy
 red
 green
 blue
+Angular
